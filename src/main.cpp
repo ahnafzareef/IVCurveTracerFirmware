@@ -22,7 +22,6 @@
 #define I_ADC_ZERO      1552
 #define I_ADC_PER_AMP   62.0f
 
-// If DUT+ is scaled down through a voltage divider before reaching IO36,
 // set V_SCALE to the inverse of the divider ratio (e.g. 2.0 for 1:1 divider).
 #define V_SCALE         1.0f
 
