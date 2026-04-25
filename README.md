@@ -1,2 +1,2 @@
 # IVCurveTracerFirmware
-IV Curve Tracing firmware for analysis of IV characterisitics mppt
+IV Curve Tracing firmware for analysis of IV characteristics mppt
